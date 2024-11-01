@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 114
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -764,9 +764,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 19.878511, y: 1.7290404, z: -8.923062}
+    m_Target: {x: 87.516335, y: 129.20576, z: -55.504135}
     speed: 2
-    m_Value: {x: 19.878511, y: 1.7290404, z: -8.923062}
+    m_Value: {x: 87.516335, y: 129.20576, z: -55.504135}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -812,9 +812,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.06516892, y: -0.12423696, z: 0.008135715, w: 0.9902305}
+    m_Target: {x: -0.073498785, y: 0.86321884, z: -0.13151501, w: -0.48215654}
     speed: 2
-    m_Value: {x: 0.065159, y: -0.124218054, z: 0.008134476, w: 0.99007976}
+    m_Value: {x: -0.07348703, y: 0.86308074, z: -0.13149397, w: -0.48207942}
   m_Size:
     m_Target: 0.8660254
     speed: 2
@@ -980,7 +980,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: fef6ffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1138,15 +1138,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Euanv\OneDrive\Documents\GitHub\CG-Ellie\CG_Built-In
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 445e0000
-    m_LastClickedID: 24132
+    m_SelectedIDs: 465e0000
+    m_LastClickedID: 24134
     m_ExpandedIDs: 00000000425e0000445e0000465e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1230,4 +1230,4 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 279
+  m_DirectoriesAreaWidth: 178
